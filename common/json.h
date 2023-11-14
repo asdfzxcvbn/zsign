@@ -21,6 +21,7 @@ typedef unsigned long long int uint64_t;
 #endif
 
 #include <map>
+#include <ctime>
 #include <queue>
 #include <vector>
 #include <string>
